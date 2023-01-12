@@ -1,0 +1,16 @@
+@media screen and (max-width:1000px) {
+    body{
+        background-color: rgb(159, 159, 246);
+
+    }
+    nav{
+        flex-direction: column;
+    }
+    .logo{
+        justify-content: center;
+    }
+    nav ul{
+        justify-content: center;
+    }
+}
+
